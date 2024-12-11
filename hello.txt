@@ -1,2 +1,4 @@
 Hello World from info1 lecture!
 Another line
+Adding a new line
+Adding one more line
